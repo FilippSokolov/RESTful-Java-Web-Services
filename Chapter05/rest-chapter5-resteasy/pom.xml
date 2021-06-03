@@ -30,7 +30,7 @@
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
             <artifactId>resteasy-client</artifactId>
-            <version>RELEASE</version>
+            <version>4.5.7.Final</version>
         </dependency> 
         <dependency>
             <groupId>org.jboss.resteasy</groupId>
